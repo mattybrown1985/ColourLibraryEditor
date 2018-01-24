@@ -1,0 +1,2 @@
+C:\Users\Matty\AppData\Local\Temporary Projects\ColourLibraryEditor\bin\Debug\ColourLibraryEditor.exe.config
+C:\Users\Matty\Git\ColourLibraryEditor\VB2015\ColourLibraryEditor\bin\Debug\ColourLibraryEditor.exe.config
